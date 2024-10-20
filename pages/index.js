@@ -24,24 +24,25 @@ export default function LandingPage() {
             alt="StableBond Logo"
             className="w-24 h-auto mb-8"
           />
-          <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-light max-w-[800px] mb-12 leading-relaxed font-kaisei">
-            <span className="block mb-2">Bringing Institutional-grade Safe-assets and</span>
-            <span className="block">Repo infrastructure On-chain</span>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-center font-light max-w-[800px] mb-12 leading-tight font-kaisei">
+            Bringing Institutional-grade Safe-assets and
+            <br />
+            Repo infrastructure On-chain
           </h1>
         </div>
-        <div className="flex flex-wrap justify-center gap-4 sm:gap-8 mt-8 relative z-10">
+        <div className="flex flex-wrap justify-center gap-8 mt-8 relative z-10">
           <Link href="https://medium.com/@stablebond">
-            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-sm sm:text-base font-kaisei">
+            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei underline">
               Research
             </a>
           </Link>
           <Link href="https://ir15zt41xnh.typeform.com/to/GmEGkGFa">
-            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-sm sm:text-base font-kaisei">
+            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei underline">
               Institutional Partnerships
             </a>
           </Link>
           <Link href="mailto:hiring@stablebond.co">
-            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-sm sm:text-base font-kaisei">
+            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei underline">
               Hiring
             </a>
           </Link>
