@@ -22,7 +22,7 @@ export default function LandingPage() {
           <img
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/stablebond_final__1_-removebg-preview%201-n5YqsM3HUaAGps0q62s3hYfQn0ZcZX.png"
             alt="StableBond Logo"
-            className="w-40 h-auto mb-8"
+            className="w-25 h-auto mb-8"
           />
           <h1 className="text-base sm:text-2xl md:text-3xl lg:text-4xl text-center font-thin max-w-[1000px] mb-12 leading-tight font-kaisei">
             Bringing Institutional-grade Safe-assets and
