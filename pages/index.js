@@ -6,7 +6,7 @@ export default function LandingPage() {
   return (
     <>
       <Head>
-        <title>StableBond</title>
+        <title>StableBond - Institutional-grade Safe-assets and Repo infrastructure On-chain</title>
         <meta name="description" content="Bringing Institutional-grade Safe-assets and Repo infrastructure On-chain" />
         <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;700&display=swap" rel="stylesheet" />
       </Head>
