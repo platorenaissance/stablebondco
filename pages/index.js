@@ -24,7 +24,7 @@ export default function LandingPage() {
             alt="StableBond Logo"
             className="w-24 h-auto mb-8"
           />
-          <h1 className="text-text-base sm:text-base md:text-base lg:text-base text-center font-light max-w-[900px] mb-12 leading-tight font-kaisei">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center font-light max-w-[800px] mb-12 leading-tight font-kaisei">
             Bringing Institutional-grade Safe-assets and Repo infrastructure On-chain
           </h1>
         </div>
