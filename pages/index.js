@@ -15,7 +15,7 @@ export default function LandingPage() {
           <img
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/treasury%20bond%20asset-ovsomiJ1Lkzb4jRbu71QPk8V7geFBQ.png"
             alt="US Treasury Bond"
-            className="object-contain w-full h-full"
+            className="object-contain w-749 h-541"
           />
         </div>
         <div className="relative z-10 flex flex-col items-center justify-center max-w-[1440px] w-full">
