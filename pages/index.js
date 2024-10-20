@@ -9,8 +9,7 @@ export default function LandingPage() {
         <title>StableBond - Institutional-grade Safe-assets and Repo infrastructure On-chain</title>
         <meta name="description" content="Bringing Institutional-grade Safe-assets and Repo infrastructure On-chain" />
         <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;700&display=swap" rel="stylesheet" />
-        {/* Updated favicon link */}
-        <link rel="icon" href="/images/favicon.ico" />
+        <link rel="icon" href="public/images/favicon.ico" />
       </Head>
       <div className="min-h-screen flex flex-col items-center justify-center bg-[#023020] text-white relative p-4">
         <div className="absolute inset-0 flex items-center justify-center">
@@ -24,7 +23,7 @@ export default function LandingPage() {
           <img
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/stablebond_final__1_-removebg-preview%201-n5YqsM3HUaAGps0q62s3hYfQn0ZcZX.png"
             alt="StableBond Logo"
-            className="w-25 h-auto mb-9"
+            className="w-22 h-auto mb-9"
           />
           <h1 className="text-base sm:text-2xl md:text-3xl lg:text-4xl text-center font-thin max-w-[1000px] mb-12 leading-tight font-kaisei">
             Bringing Institutional-grade Safe-assets and
