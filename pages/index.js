@@ -9,6 +9,7 @@ export default function LandingPage() {
         <title>StableBond - Institutional-grade Safe-assets and Repo infrastructure On-chain</title>
         <meta name="description" content="Bringing Institutional-grade Safe-assets and Repo infrastructure On-chain" />
         <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;700&display=swap" rel="stylesheet" />
+        <link rel="icon" href="/images/favicon.ico" />
       </Head>
       <div className="min-h-screen flex flex-col items-center justify-center bg-[#023020] text-white relative p-4">
         <div className="absolute inset-0 flex items-center justify-center">
