@@ -10,6 +10,11 @@ export default function LandingPage() {
         <meta name="description" content="Bringing Institutional-grade Safe-assets and Repo infrastructure On-chain" />
         <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;700&display=swap" rel="stylesheet" />
          <link rel="icon" href="/images/favicon.ico" />
+         <link rel="icon" href="/images/favicon-16x16.ico" sizes="16x16" />
+         <link rel="icon" href="/images/favicon-32x32.ico" sizes="32x32" />
+         <link rel="icon" href="/images/favicon-48x48.ico" sizes="48x48" />
+         <link rel="icon" href="/images/favicon-100x100.ico" sizes="100x100" />
+         <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" sizes="180x180" />
       </Head>
       <div className="min-h-screen flex flex-col items-center justify-center bg-[#023020] text-white relative p-4">
         <div className="absolute inset-0 flex items-center justify-center">
