@@ -22,7 +22,7 @@ export default function LandingPage() {
           <img
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/stablebond_final__1_-removebg-preview%201-n5YqsM3HUaAGps0q62s3hYfQn0ZcZX.png"
             alt="StableBond Logo"
-            className="w-50 h-auto mb-8"
+            className="w-40 h-auto mb-8"
           />
           <h1 className="text-base sm:text-2xl md:text-3xl lg:text-4xl text-center font-thin max-w-[1000px] mb-12 leading-tight font-kaisei">
             Bringing Institutional-grade Safe-assets and
@@ -32,17 +32,17 @@ export default function LandingPage() {
         </div>
         <div className="flex flex-wrap justify-center gap-8 mt-8 relative z-10">
           <Link href="https://medium.com/@stablebond">
-            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei underline">
+            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei ">
               Research
             </a>
           </Link>
           <Link href="https://ir15zt41xnh.typeform.com/to/GmEGkGFa">
-            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei underline">
+            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei ">
               Institutional Partnerships
             </a>
           </Link>
           <Link href="mailto:hiring@stablebond.co">
-            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei underline">
+            <a className="text-white hover:text-gray-300 transition-colors duration-200 text-base sm:text-lg font-kaisei ">
               Hiring
             </a>
           </Link>
