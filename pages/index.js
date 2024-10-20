@@ -25,9 +25,8 @@ export default function LandingPage() {
             className="w-24 h-auto mb-8"
           />
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-light max-w-[800px] mb-12 leading-relaxed font-kaisei">
-            Bringing Institutional-grade Safe-assets and
-            <br className="hidden sm:block" />
-            <span className="mt-2 inline-block">Repo infrastructure On-chain</span>
+            <span className="block mb-2">Bringing Institutional-grade Safe-assets and</span>
+            <span className="block">Repo infrastructure On-chain</span>
           </h1>
         </div>
         <div className="flex flex-wrap justify-center gap-4 sm:gap-8 mt-8 relative z-10">
